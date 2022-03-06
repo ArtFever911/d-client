@@ -4,7 +4,7 @@ Lets clone the repo and run
 
 Go to repo folder in your local machine and use command to start attack
 ```
-npm start --cluster 1 --host "https://exmple.com/" --amount 1
+npm start --cluster 1 --host "https://example.com/" --amount 1
 ```
 Where:<br>
  `--clusters` means how much threads you are going to create. Use up to 500 on machine with 16 GB RAM an 8 CPU.<br>
